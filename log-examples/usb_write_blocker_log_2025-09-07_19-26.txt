@@ -1,0 +1,2 @@
+﻿Log file created: E:\usb_write_blocker_log_2025-09-07_19-26.txt
+2025-09-07 19:26 - Write Protection status: DISABLED

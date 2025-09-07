@@ -1,0 +1,8 @@
+﻿Log file created: E:\usb_write_blocker_log_2025-09-07_19-20.txt
+2025-09-07 19:21 - USB Write Protection ENABLED
+2025-09-07 19:21 - USB Write Protection DISABLED
+2025-09-07 19:22 - Write Protection status: DISABLED
+2025-09-07 19:22 - USB Write Protection ENABLED
+2025-09-07 19:22 - Write Protection status: ENABLED
+2025-09-07 19:23 - USB Write Protection DISABLED
+2025-09-07 19:23 - Write Protection status: DISABLED
