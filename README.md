@@ -2,7 +2,7 @@
 
 Author: Michał Sołtysik
 
-Cybersecurity Analyst & Consultant | Deep Packet Inspection Analyst | Digital Forensics Examiner | SOC Trainer | CyberWarfare Organizer
+Cybersecurity Analyst & Consultant | Forensics Examiner | SOC Trainer | Cyber Warfare Organizer
 
 Official website: https://michalsoltysik.com/
 
